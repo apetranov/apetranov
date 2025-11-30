@@ -8,8 +8,8 @@ I have a passion for building slick and modern user experiences!
 
 ## A bit about me
 
--♟️ I LOVE playing and studying chess.
--🎹 I sometimes make music.
+- ♟️ I LOVE playing and studying chess.
+- 🎹 I sometimes make music.
 <!--
 **apetranov/apetranov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
