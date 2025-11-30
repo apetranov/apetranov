@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Alex, a final year Software Engineering student from Bulgaria.
+
+I’m currently learning the React, TypeScript and Tailwind CSS stack.
+
+I have a passion for building slick and modern user experiences!
 <!--
 **apetranov/apetranov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
