@@ -8,6 +8,7 @@ I have a passion for building slick, modern and engaging user experiences.
 
 ## A bit about me
 
+- 🎬 I am a content creator.
 - ♟️ I love playing and studying chess.
 - 🎹 I sometimes make music.
 - 💻 I am obsessed with competitive programming and solving LeetCode.
