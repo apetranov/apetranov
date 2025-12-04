@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hi there 👋
 
 I'm Alex, a final year Software Engineering student from Bulgaria.
 
