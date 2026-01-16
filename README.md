@@ -2,10 +2,6 @@
 
 I'm Alex, a final year Software Engineering student from Bulgaria.
 
-I’m currently learning the React, TypeScript and Tailwind CSS stack.
-
-I have a passion for building slick, modern and engaging user experiences.
-
 ## A bit about me
 
 - 🎬 I am a content creator.
