@@ -6,8 +6,6 @@ I'm Alex, a final year Software Engineering student from Bulgaria.
 
 - 🎬 I am a content creator.
 - ♟️ I love playing and studying chess.
-- 🎹 I sometimes make music.
-- 💻 I like competitive programming and solving LeetCode.
 <!--
 **apetranov/apetranov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
