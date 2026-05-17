@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Alex, a final year Software Engineering student from Bulgaria.
+I'm Alex, a self taught developer.
 
 ## A bit about me
 
