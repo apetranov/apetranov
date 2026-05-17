@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Alex, a self taught developer.
+I'm Alex, a self taught developer currently mastering DSA.
 
 ## A bit about me
 
