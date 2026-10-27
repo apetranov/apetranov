@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Alex, a self taught developer currently mastering DSA.
+I'm Alex, full stack developer and proud Earthling🌱
 
 ## A bit about me
 
